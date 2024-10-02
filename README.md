@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**kavunpulemet/kavunpulemet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Артём, мне 21 год.
 
-Here are some ideas to get you started:
+### О себе:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Специализируюсь на **Golang** и имею опыт работы с библиотеками:
+  - `gorilla/mux`, `zap`, `logrus`, `viper`, `sqlx`, `mongo-driver`
+
+- Опыт работы с **REST API** и авторизацией с использованием **JWT**, которые реализовал в своем пет-проекте.
+
+- Сейчас изучаю **gRPC** и погружаюсь в микросервисную архитектуру.
+
+- Работал с базами данных:
+  - **SQL**: PostgreSQL, MS SQL
+  - **NoSQL**: MongoDB, Redis
+
+- Немного работал с **C#**, включая:
+  - **ORM** (Entity Framework, Dapper)
+  - **ASP.NET**
+
+- Умею писать простенькие **Docker**-файлы и настраивать окружения с помощью **Docker Compose**.
